@@ -1,7 +1,7 @@
-- 👋 Hello there, it's @blackhat707 here
+👋 Hello there, it's @blackhat707 here
 
-- 👀 I’m interested in Java, HTML, JS, CSS, Mysql, Python
+👀 I’m interested in Java, HTML, JS, CSS, Mysql, Python
 
-- 🌱 Current working hard on Minecraft Plugins
+🌱 Current working hard on Minecraft Plugins
 
-- 💞️ I’m looking to collaborate on different projects
+💞️ I’m looking to collaborate on different projects
