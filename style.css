@@ -11,25 +11,34 @@ section:nth-child(1) {
     background: linear-gradient(to right, #0f271b, #204331, #2c644b);
 }
 
-.sen1{
+#sen1{
     color: white;
-    width: 750px; 
-    height: 35px; 
+    /* width: 750px; 
+    height: 35px;  */
     font-size: 35px;
     font-family: monospace;  
     white-space: nowrap;
     letter-spacing: .15em;
     border-right: .15em solid transparent;
-    position: absolute;
+    
+    /* position: absolute;
     top: 50%;
     -ms-transform: translateX(50%);
     transform: translateX(50%);
+     padding-left: 25%; */
 
     animation-name: blink-caret;
     animation-duration: 1s;
     animation-timing-function: step-start;
     animation-delay: 2.2s;
     animation-iteration-count: infinite;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 @keyframes blink-caret {
@@ -39,8 +48,6 @@ section:nth-child(1) {
 
 section:nth-child(2) {
     position: absolute;
-    height: 110vh;
-    width: 100%;
     display: flex;
     justify-content: center;
     background: wheat;
